@@ -19,6 +19,6 @@ spec:
     spec: # Pod spec
       containers:
       - name: mycontainer
-        image: devopsjourney1/mywebapp
+        image: okoou/alpine
         ports:
         - containerPort: 80
